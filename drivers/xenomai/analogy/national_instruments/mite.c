@@ -1,0 +1,1 @@
+/home/goodguy/bbb/xenomai-2.6.4/ksrc/drivers/analogy/national_instruments/mite.c

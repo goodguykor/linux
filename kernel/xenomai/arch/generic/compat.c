@@ -1,0 +1,1 @@
+/home/goodguy/bbb/xenomai-2.6.4/ksrc/arch/generic/compat.c

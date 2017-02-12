@@ -236,7 +236,7 @@ fw-shipped-$(CONFIG_CAPE_BEAGLEBONE) += \
 
 # the HDMI virtual capes on the beaglebone-black
 fw-shipped-$(CONFIG_CAPE_BEAGLEBONE) += \
-	cape-boneblack-hdmi-00A0.dtbo cape-boneblack-hdmin-00A0.dtbo
+	cape-boneblack-hdmi-00A0.dtbo cape-boneblack-hdmin-00A0.dtbo dualmemory-00A0.dtbo
 
 # the Tester cape (tester-side)
 fw-shipped-$(CONFIG_CAPE_BEAGLEBONE) += cape-bone-tester-00A0.dtbo
